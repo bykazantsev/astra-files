@@ -110,4 +110,3 @@ sudo ./setup-astra.sh  # автоматически подхватит setup.con
 [MIT](LICENSE) © bykazantsev
 
 ---
-```
